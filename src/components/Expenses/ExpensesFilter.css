@@ -1,0 +1,13 @@
+.expense-filter {
+  color: white;
+  margin-bottom: 1rem;
+  padding: 1rem 0.5rem;
+  font-weight: bold;
+}
+
+.expense-filter__control select {
+  float: left;
+  padding: 0.5rem 2rem;
+  border-radius: 6px;
+  font-weight: bold;
+}
